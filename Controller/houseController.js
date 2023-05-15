@@ -2,7 +2,6 @@ const { BASE_FILE_URL } = require("../BaseURL");
 const { deleteFile } = require("../DeleteFile");
 const House = require("../Models/House");
 
-//title, width,length,noBedrooms,size,propertyType,propertyTypeRentSale,east,north,price,description,file,propertyNo,streetNo,scheme,sector,city
 
 
 
